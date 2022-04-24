@@ -4,7 +4,7 @@ Hi 👋 My name is Pradeep Verma
 Full Stack Developer
 --------------------
 
-Software Engineer taking end-to-end responsibility for envisioning, designing, and developing performance-driven systems. Having more than 4+ years of experience solving Engineering problems at scale. Work experience with JavaScript, Nodejs, React, Express, Java, SQL, NoSQL, Data Structures and Algorithms, High Level and Low Level (Object-Oriented Design), Redis, Kafka, Postgress, MongoDB, ActiveMQ-RabbitMQ, CI/CD Jenkins, CI/CD, ELK stack, Kubernetes, Docker, AWS. I am a quick learner and passionate about learning new things in tech.
+Software Engineer taking end-to-end responsibility for envisioning, designing, and developing performance-driven systems. Having more than 4+ years of experience solving Engineering problems at scale.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [here](http://github.com/pradverma94)
@@ -12,8 +12,7 @@ Software Engineer taking end-to-end responsibility for envisioning, designing, a
 *   🚀  I'm currently working on [Revv](http://revv.co.in)
 *   🧠  I'm learning Spring Boot
 *   🤝  I'm open to collaborating on Web3, ML projects
-*   ⚡  I love to visit new places### Skills
-				<p align="left">
+*   ⚡  I love to visit new places### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
