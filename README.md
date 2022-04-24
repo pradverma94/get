@@ -1,7 +1,7 @@
 
 -----------------------------
 
-<a href="http://www.instagram.com/pradverma24" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?id=1h_gwjG-MU9UfZv4_RFLA3L9yFXF-6sof" width="auto" height="auto" /></a>
+<a href="http://www.instagram.com/pradverma24" target="_blank" rel="noreferrer"><img src="https://drive.google.com/uc?id=1h_gwjG-MU9UfZv4_RFLA3L9yFXF-6sof" width="100%" height="auto" /></a>
 
 -----------------------------
 
